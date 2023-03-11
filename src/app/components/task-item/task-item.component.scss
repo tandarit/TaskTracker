@@ -7,6 +7,12 @@
 
 .task.reminder {
     border-left: 5px solid green;
+    border-radius: 15px;
+}
+
+.task.urgent {
+    border : 5px solid red;
+    border-radius: 15px;
 }
 
 .task h3 {
